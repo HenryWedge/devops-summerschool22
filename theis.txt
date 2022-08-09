@@ -1,4 +1,6 @@
 Theis
 Favourite food: lassagne
 favourite color
+<<<<<<< HEAD
 favourite pet
+I was here :D
