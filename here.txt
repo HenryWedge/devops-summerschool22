@@ -1,1 +1,3 @@
-Hi
+name: Hendrik Reiter
+favorite-color: green
+favorite-food: pan cake
