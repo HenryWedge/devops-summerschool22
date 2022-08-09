@@ -1,3 +1,6 @@
 name: Hendrik Reiter
 favorite-color: green
-favorite-food: pan cake
+favorite-food: pancake
+subject: computer science
+age: 23
+
